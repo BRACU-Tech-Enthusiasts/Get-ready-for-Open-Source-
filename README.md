@@ -34,7 +34,7 @@ There are 2 types of approaches:
         2)    Then apply in various programs or projects from GitHub and then contribute 
                and learn what you need to know. It’s called “Learn on the Go”
         Again, you are good to go for awesome programs like Gsoc , GitHub externship 
-         program or Fossasia (edited)
+         program or Fossasia 
 ```
 
 **Some Open-source Programs :**
