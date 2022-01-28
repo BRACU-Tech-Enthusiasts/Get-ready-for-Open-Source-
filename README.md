@@ -44,8 +44,9 @@ There are 2 types of approaches:
 4)    Google Summer of Code: https://summerofcode.withgoogle.com/
 5)    Reinforcement Learning Open Source Fest: https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/
 6)    Outreachy Internships: https://www.outreachy.org/
-7)    Script Winter of Code: https://swoc.tech/
-8)    Delta winter of code: https://dwoc.io/
+7)    Summer of Bitcoin: https://www.summerofbitcoin.org/
+8)    Script Winter of Code: https://swoc.tech/
+9)    Delta winter of code: https://dwoc.io/
 
 
 Some resources for open source: 
